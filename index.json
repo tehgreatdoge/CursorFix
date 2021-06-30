@@ -2,7 +2,7 @@
     "version": [1,0,0],
     "name": "Cursor Fix",
 	"author": "tehgreatdoge",
-    "description": "Fixes the hideous, new cursors.",
+    "description": "Removes the new cursors from roblox.",
     "mapping": [
         ["ArrowCursor.png","content/textures/Cursors/KeyboardMouse"],
         ["ArrowFarCursor.png","content/textures/Cursors/KeyboardMouse"]
