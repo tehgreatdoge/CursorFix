@@ -1,0 +1,10 @@
+{
+    "version": [1,0,0],
+    "name": "Cursor Fix",
+	"author": "tehgreatdoge",
+    "description": "Fixes the hideous, new cursors.",
+    "mapping": [
+        ["ArrowCursor.png","content/textures/Cursors/KeyboardMouse"],
+        ["ArrowFarCursor.png","content/textures/Cursors/KeyboardMouse"]
+    ]
+}
